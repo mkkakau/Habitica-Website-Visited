@@ -1,0 +1,6 @@
+{
+  "name": "Habitica Website Visited",
+  "description": "Checks off a daily if a website was visited",
+  "version": "1.0",
+  "manifest_version": 3
+}
